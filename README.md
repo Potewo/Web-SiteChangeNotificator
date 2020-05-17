@@ -5,6 +5,11 @@ This program detects that your website has been changed and notifies LINE.
 ## 解説記事 explanation article
 [【自動化】WEBサイトの変更を検知してLINEに通知する](https://qiita.com/Potewo/items/431cea6b954652adb0b3)
 
+## Required
+- python3
+  - urllib
+  - beautifulsoup4
+
 ## 使い方 Usage
 1. このリポジトリをクローンする clone this repository
 1. `パス`をクローンしたリポジトリのパスに置き換える replace `パス` with your path to cloned repository
